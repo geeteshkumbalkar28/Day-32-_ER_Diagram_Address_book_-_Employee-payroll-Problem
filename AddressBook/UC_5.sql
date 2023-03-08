@@ -1,0 +1,1 @@
+delete from AddressBook_DB_Assignment where firstName = 'Rajesh';
